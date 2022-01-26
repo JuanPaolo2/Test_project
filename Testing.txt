@@ -1,1 +1,2 @@
 Hello my git friends
+This is an updated version now
